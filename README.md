@@ -39,7 +39,7 @@ This is our app:
 
 ### Authors
 
-This project was contributed to by [Kimathi Njoki](https://github.com/kimathinjoki)
+This project was contributed to by [Lampard254](https://github.com/Lampard254)
 
 ### License
 
